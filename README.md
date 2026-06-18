@@ -16,8 +16,7 @@ Custom made visuals and game design
 
 # Built With
 
-- [Your Engine/Language Here]
-
+- Python Using pygame
 #Goal
 
 Survive as long as possible, avoid obstacles, and create your highest score lol :) 
